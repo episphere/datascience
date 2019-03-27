@@ -10,8 +10,10 @@ Outreach through Education and development of trans-disciplinary human resources
 * [Jonas Almeida](https://github.com/jonasalmeida).
 * [Praful Bhawsar](https://github.com/theEIC)
 * We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
-### Projects
+### Projects we're involved
 * [EpiSphere](https://github.com/episphere) - Web tools to operate Cancer Epidemiology Commons.
 * [FeatureScape](https://github.com/SBU-BMI/featurescape) - Interactive representation and analysis of feature landscapes.
 * [Serverless OpenHealth](https://www.ncbi.nlm.nih.gov/pubmed/30671301) - live demo at [bit.ly/loadsparcs](https://bit.ly/loadsparcs).
+* [Connect](https://dceg.cancer.gov/research/who-we-study/cohorts/connect) - a next generation cohort study design that interoperates with integrated Health Care Systems (~200,000 participants).
+* [Confluence](https://dceg.cancer.gov/research/cancer-types/breast-cancer/confluence-project) - a research resource to uncover breast cancer genetics through genome-wide association studies (GWAS). The resource will include at least 300,000 breast cancer cases.
 
