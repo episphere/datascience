@@ -7,8 +7,8 @@ The primary goals of the Data Science Group are to accelerate the investigation 
 ### Training
 Outreach through Education and development of trans-disciplinary human resources is the third primary goal of the Data Science Group, and is articulated as part of, or deriving from, weekly [Cloud4Bio Hackathons](https://cloud4bio.github.io) at NCI's Shady Grove campus.
 ### Members
-* [Jonas Almeida](https://github.com/jonasalmeida).
-* [Praful Bhawsar](https://github.com/theEIC)
+* [Jonas Almeida](https://github.com/jonasalmeida) - senior investigator.
+* [Praful Bhawsar](https://github.com/theEIC) - graduate student.
 * We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
 
 ### Projects we're involved
