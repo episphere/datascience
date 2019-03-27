@@ -10,6 +10,7 @@ Outreach through Education and development of trans-disciplinary human resources
 * [Jonas Almeida](https://github.com/jonasalmeida).
 * [Praful Bhawsar](https://github.com/theEIC)
 * We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
+
 ### Projects we're involved
 * [EpiSphere](https://github.com/episphere) - Web tools to operate Cancer Epidemiology Commons.
 * [FeatureScape](https://github.com/SBU-BMI/featurescape) - Interactive representation and analysis of feature landscapes.
