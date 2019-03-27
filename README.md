@@ -1,7 +1,7 @@
 ## DCEG Data Science Group
 #### Division of Cancer Epidemiology and Genetics (DCEG)<br>National Institutes of Health (NIH) / National Cancer Institute (NCI)
 
-Established in 2019 with the recruitment of DCEG's [inaugural Chief Data Scientist](https://irp.nih.gov/catalyst/v27i2/colleagues-recently-tenured), [Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas), the Data Science Group seeks to advance research and infrastructure for data-intensive Population Studies.
+Established in 2019 with the recruitment of DCEG's [inaugural Chief Data Scientist](https://irp.nih.gov/catalyst/v27i2/colleagues-recently-tenured), [Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas), the Data Science Group seeks to advance research and infrastructure for data-intensive Precision Prevention studies.
 ### Goal
 The primary goals of the Data Science Group are to accelerate the investigation of epidemiologic and genetic causes of cancer, and to advance Cloud Computing infrastructure for Precision Prevention. These aims will be pursued as a multidisciplinary research program that combines systems biology, computational statistics, artificial intelligence, and software engineering for biomedical applications.
 ### Training
