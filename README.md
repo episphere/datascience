@@ -10,7 +10,7 @@ Outreach through Education and development of trans-disciplinary human resources
 * [Jonas Almeida](https://github.com/jonasalmeida) - senior investigator.
 * [Praful Bhawsar](https://github.com/theEIC) - graduate student.
 * [Geeta Joshi](mailto:geeta.joshi@nih.gov>) - Project Manager.
-* We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
+* We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543); and also [analyst positions](https://careers.iscb.org/jobs/view/6549).
 
 ### Projects we're involved
 * [EpiSphere](https://github.com/episphere) - Web tools to operate Cancer Epidemiology Commons.
