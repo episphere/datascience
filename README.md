@@ -2,14 +2,15 @@
 #### Division of Cancer Epidemiology and Genetics (DCEG)<br>National Institutes of Health (NIH) / National Cancer Institute (NCI)
 
 Established in 2019 with the recruitment of DCEG's [inaugural Chief Data Scientist](https://irp.nih.gov/catalyst/v27i2/colleagues-recently-tenured), [Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas), the Data Science Group seeks to advance research and infrastructure for data-intensive Precision Prevention studies.
-### Goal
-The primary goals of the Data Science Group are to accelerate the investigation of epidemiologic and genetic causes of cancer, and to advance Cloud Computing infrastructure for Precision Prevention. These aims will be pursued as a multidisciplinary research program that combines systems biology, computational statistics, artificial intelligence, and software engineering for biomedical applications.
+### Goals
+The primary goal of the Data Science Group is to accelerate the investigation of epidemiologic and genetic causes of cancer, and to advance Cloud Computing infrastructure for Precision Prevention. These aims will be pursued as a multidisciplinary research program that combines systems biology, computational statistics, artificial intelligence, and software engineering for biomedical applications.
 ### Training
 Outreach through Education and development of trans-disciplinary human resources is the third primary goal of the Data Science Group, and is articulated as part of, or deriving from, weekly [Cloud4Bio Hackathons](https://cloud4bio.github.io) at NCI's Shady Grove campus.
 ### Members
-* [Jonas Almeida](https://github.com/jonasalmeida) - senior investigator.
-* [Praful Bhawsar](https://github.com/theEIC) - graduate student.
-* [Geeta Joshi](mailto:geeta.joshi@nih.gov>) - Project Manager.
+* [Jonas Almeida, PhD](https://dceg.cancer.gov/about/staff-directory/almeida-jonas) - senior investigator, Chief Data Scientist.
+* [Daniel Russ, PhD](mailto:druss@mail.nih.gov) - Staff Scientist
+* [Praful Bhawsar, MS](https://github.com/PrafulB) - DevOps, AI for Computational Pathology.
+* [Bhaumik Patel, MS](https://github.com/bhaumik55231) - DevOps, Data Systems Lead Engineer.
 * We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543); and also [analyst positions](https://careers.iscb.org/jobs/view/6549).
 
 ### Projects we're involved
