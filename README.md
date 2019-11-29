@@ -7,7 +7,7 @@ The main goal of the Data Science Group is to accelerate the investigation of ep
 ### Training
 Outreach through Education and development of trans-disciplinary human resources is the third aim of the Data Science Group, and is articulated by weekly [Cloud4Bio Hackathons](https://cloud4bio.github.io) at NCI's Shady Grove campus.
 ### EpiSphere
-The evolution of the Web towards a global data space is opening entirely new opportunities to approach cancer prevention and to understand its natural history. This is a technology development particulalry well suited to Epidemiology, at the intersection between the diversity of data types and sensitive governance of data sources.
+The evolution of the Web towards a global data space is opening entirely new opportunities to cancer prevention and to understing its natural history. This is a technology development particulalry well suited to Epidemiology, challanged by the widening diversity of data types and increasngly sensitive governance of data sources. These former range from digital pathology to wearable devices, while the later stretches from federal and state sponsored reference data sources to consumer-facing services. EpiSphere is therefore conceived as an epidemiology approach to the broader [NIH datacommons initiative](https://commonfund.nih.gov/commons) to advance interoperable data ecosystems in a manner that is informed by specific data-intensive projects at [DCEG](https://dceg.cancer.gov).
 ### Members
 * [Jonas Almeida, PhD](https://dceg.cancer.gov/about/staff-directory/almeida-jonas) - senior investigator, Chief Data Scientist.
 * [Daniel Russ, PhD](mailto:druss@mail.nih.gov) - Staff Scientist
