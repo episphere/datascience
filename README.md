@@ -6,6 +6,8 @@ Established in 2019 with the recruitment of DCEG's [inaugural Chief Data Scienti
 The main goal of the Data Science Group is to accelerate the investigation of epidemiologic and genetic causes of cancer, and to advance Cloud Computing infrastructure for Precision Prevention. These two aims are pursued as a multidisciplinary research program that combines systems biology, computational statistics, artificial intelligence, and software engineering for biomedical applications.
 ### Training
 Outreach through Education and development of trans-disciplinary human resources is the third aim of the Data Science Group, and is articulated by weekly [Cloud4Bio Hackathons](https://cloud4bio.github.io) at NCI's Shady Grove campus.
+### EpiSphere
+The evolution of the Web towards a global data space is opening entirely new opportunities to approach cancer prevention and to understand its natural history. This is a technology development particulalry well suited to Epidemiology, at the intersection between the diversity of data types and sensitive governance of data sources.
 ### Members
 * [Jonas Almeida, PhD](https://dceg.cancer.gov/about/staff-directory/almeida-jonas) - senior investigator, Chief Data Scientist.
 * [Daniel Russ, PhD](mailto:druss@mail.nih.gov) - Staff Scientist
