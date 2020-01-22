@@ -13,6 +13,8 @@ The evolution of the Web towards a global data space is opening entirely new opp
 * [Daniel Russ, PhD](https://dceg.cancer.gov/about/staff-directory/russ-daniel) - Staff Scientist
 * [Praful Bhawsar, MS](https://github.com/PrafulB) - DevOps, AI for Computational Pathology.
 * [Bhaumik Patel, MS](https://github.com/bhaumik55231) - DevOps, Data Systems Lead Engineer.
+* [Nick Ruggiery](https://github.com/ruggz13) - DevOps, Application Engineer.
+* [Noor Ehtesham](https://github.com/noorehtesham ) - DevOps, Application Engineer.
 * We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543); and also [analyst positions](https://careers.iscb.org/jobs/view/6549).
 
 ### Projects we're involved
