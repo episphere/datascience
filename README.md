@@ -11,7 +11,7 @@ The evolution of the Web towards a global data space is opening entirely new opp
 ### People
 * [Jonas Almeida, PhD](https://github.com/jonasalmeida) - [senior investigator, Chief Data Scientist](https://dceg.cancer.gov/about/staff-directory/almeida-jonas).
 * [Daniel Russ, PhD](https://github.com/danielruss) - [Staff Scientist](https://dceg.cancer.gov/about/staff-directory/russ-daniel)
-* [Jeya Balasubramanian](https://github.com/jeyabbalas)
+* [Jeya Balasubramanian, PhD](https://github.com/jeyabbalas) - postdoctoral Fellow
 * [Praful Bhawsar, MS](https://github.com/PrafulB) - DevOps, AI for Computational Pathology.
 * [Bhaumik Patel, MS](https://github.com/bhaumik55231) - DevOps, Data Systems Lead Engineer.
 * [Nick Ruggiery](https://github.com/ruggz13) - DevOps, Application Engineer.
