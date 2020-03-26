@@ -15,7 +15,7 @@ The evolution of the Web towards a global data space is opening entirely new opp
 * [Praful Bhawsar, MS](https://github.com/PrafulB) - DevOps, AI for Computational Pathology.
 * [Bhaumik Patel, MS](https://github.com/bhaumik55231) - DevOps, Data Systems Lead Engineer.
 * [Nick Ruggiery](https://github.com/ruggz13) - DevOps, Application Engineer.
-* [Noor Ehtesham](https://github.com/noorehtesham ) - DevOps, Application Engineer.
+* [Brian Shen](mailto:brian.shen@nih.gov) - DevOps, Application Engineer.
 * We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543); and also [analyst positions](https://careers.iscb.org/jobs/view/6549). If you are looking for **intership positions**, [we have a challenge for you](https://github.com/episphere/internshipChallenge).
 
 ### Projects we're involved
