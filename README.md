@@ -1,5 +1,5 @@
 # [DCEG Data Science Group](https://dceg.cancer.gov/about/organization/programs-ebp/datascience)
-## <span style="color:green">Where life become numbers, and numbers come to life.</span>
+## <span style="color:green">Where life becomes numbers, and numbers come to life.</span>
 #### Division of Cancer Epidemiology and Genetics (DCEG)<br>National Institutes of Health (NIH) / National Cancer Institute (NCI)
 
 Established in 2019 with the recruitment of DCEG's [inaugural Chief Data Scientist](https://irp.nih.gov/catalyst/v27i2/colleagues-recently-tenured), [Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas), the Data Science Group seeks to advance research and infrastructure for data-intensive Precision Prevention studies.
