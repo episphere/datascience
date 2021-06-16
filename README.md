@@ -19,7 +19,7 @@ The evolution of the Web towards a global data space is creating new opportuniti
 * [Bhaumik Patel, MS](https://github.com/bhaumik55231) - Software Engineer, Data Systems Lead Engineer.
 * [Abhinav Jonnada](https://github.com/abhinavjonnada82) - Software Engineer, Development and Operations.
 * [Brian Shen](https://github.com/naiyume) - Development and Operations, Application Engineer.
-* [August "Gus" Thomas](https://github.com/august-thomas) - Bioinformatician.
+* [Gene](https://github.com/august-thomas) - DevOps.
 * [Lee Mason](https://github.com/LKMason) - PhD student.
 * We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543); and also [analyst positions](https://careers.iscb.org/jobs/view/6549). If you are looking for **intership positions**, [we have a challenge for you](https://github.com/episphere/internshipChallenge).
 
