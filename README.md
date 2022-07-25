@@ -14,13 +14,10 @@ The evolution of the Web towards a global data space is creating new opportuniti
 ### People
 * [Jonas Almeida, PhD](https://github.com/jonasalmeida) - [senior investigator, Chief Data Scientist](https://dceg.cancer.gov/about/staff-directory/almeida-jonas).
 * [Daniel Russ, PhD](https://github.com/danielruss) - [Staff Scientist](https://dceg.cancer.gov/about/staff-directory/russ-daniel)
-* [Jeya Balasubramanian, PhD](https://github.com/jeyabbalas) - postdoctoral Fellow
+* [Jeya Balasubramanian, PhD](https://github.com/jeyabbalas) - postdoctoral researcher.
 * [Praful Bhawsar, MS](https://github.com/PrafulB) - PhD student - graduate partnership with Stony Brook University, Computational Pathology.
-* [Lee Mason](https://github.com/LKMason) - PhD student - graduate partnership with Queen's College in Belfast, interactive computing.
+* [Lee Mason](https://github.com/LKMason) - PhD student - graduate partnership with Queen's University Belfast, interactive computing.
 * [Lorena Sandoval, MS](https://github.com/lorenasandoval88) - PhD student - graduate partnership with George Mason University, population studies.
-* [Abhinav Jonnada](https://github.com/abhinavjonnada82) - Software Engineer, Development and Operations.
-* [Brian Shen](https://github.com/naiyume) - Development and Operations, Application Engineer.
-* [Gene Barra](https://github.com/august-thomas) - DevOps.
 * We're hiring! Posdoctoral Felowship positions opened: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543); and also [analyst positions](https://careers.iscb.org/jobs/view/6549). If you are looking for **intership positions**, [we have a challenge for you](https://github.com/episphere/internshipChallenge).
 
 ### Projects we're involved
